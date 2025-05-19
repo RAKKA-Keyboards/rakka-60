@@ -1,6 +1,6 @@
 # RAKKA 60 Resources
 
-## [Plate](./Plate)
+## [Plate](./plate)
 
 Plate drawing for RAKKA 60/64 PCB. Compatible with standard GH60. If you want to other mounting method or install the PCB on other cases, you need to modify the drawing by yourself.
 
